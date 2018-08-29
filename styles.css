@@ -1,0 +1,55 @@
+h3
+{
+    color: #229b7b;
+}
+
+#rowhead
+{
+    color: blue;
+    font-family: Ariel, sans-sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#sss
+{
+    color: orange;
+}
+
+#top
+{
+    background-color: yellow;
+    margin: 50px;
+    padding: 20px;
+}
+
+#middle
+{
+    background-color: yellow;
+    margin: 50px;
+    padding: 20px;
+}
+
+table
+{
+    text-align: center;
+    border : 2px dotted black;
+    border-collapse: collapse;
+}
+
+th,td
+{
+    border: 1px solid black;
+    padding: 20px;
+}
+
+th
+{
+    background-color: lightgrey;
+}
+
+.name
+{
+    color: darkmagenta;
+}
